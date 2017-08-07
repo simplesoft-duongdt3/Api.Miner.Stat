@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api.mining.iml" filepath="$PROJECT_DIR$/.idea/modules/api.mining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api.mining_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api.mining_main.iml" group="api.mining" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api.mining_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api.mining_test.iml" group="api.mining" />
+    </modules>
+  </component>
+</project>
